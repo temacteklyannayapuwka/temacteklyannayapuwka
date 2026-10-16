@@ -15,8 +15,24 @@ Database administrator working with Microsoft SQL Server and enterprise IT infra
 
 ### Languages & tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,java,postgres,linux,bash,git,github,figma,ai&theme=dark&perline=5" alt="Go, Python, Java, PostgreSQL, Linux, Bash, Git, GitHub, Figma, Adobe Illustrator" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" title="Go" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" title="Bash" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="40" height="40" />
 </p>
 
 | Area | Technologies |
@@ -24,4 +40,4 @@ Database administrator working with Microsoft SQL Server and enterprise IT infra
 | Databases | SQL · Microsoft SQL Server · PostgreSQL |
 | Backend | Go · Python · Java |
 | Systems & automation | Linux · Bash · Proxmox · MikroTik · Zabbix |
-| Tools & design | Git · GitHub · Figma · Adobe Illustrator |
+| Tools & design | Git · GitHub · Figma |
