@@ -3,6 +3,7 @@
 <h3 align="center">Database Administrator · Backend Development · Infrastructure</h3>
 
 <p align="center">
+  <a href="https://t.me/devilishtemadesign"><img src="https://img.shields.io/badge/TELEGRAM-0099FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:rtmbakanov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0099FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.behance.net/apagebakanov"><img src="https://img.shields.io/badge/BEHANCE-0099FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
   <a href="https://github.com/temacteklyannayapuwka?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0099FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
