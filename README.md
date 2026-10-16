@@ -1,4 +1,4 @@
-![Hello.](.banner.png)
+![logo](https://zastavok.net/main/cosmos/166724904119.jpg)
 
 <!--
 **temacteklyannayapuwka/temacteklyannayapuwka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
