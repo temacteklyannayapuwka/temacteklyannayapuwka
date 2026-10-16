@@ -1,24 +1,20 @@
-<h1 align="center">Hi there, I'm Artem 👋</h1>
+<h1 align="center">Hi there, I'm Artem</h1>
 
 <h3 align="center">Database Administrator · Backend Development · Infrastructure</h3>
 
 <p align="center">
-  <a href="mailto:rtmbakanov@gmail.com"><img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email" /></a>
-  <a href="https://www.behance.net/apagebakanov"><img src="https://img.shields.io/badge/Behance-22D3EE?style=for-the-badge&logo=behance&logoColor=0D1117" alt="Behance portfolio" /></a>
-  <a href="https://github.com/temacteklyannayapuwka?tab=repositories"><img src="https://img.shields.io/badge/Projects-22D3EE?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub projects" /></a>
+  <a href="mailto:rtmbakanov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0099FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.behance.net/apagebakanov"><img src="https://img.shields.io/badge/BEHANCE-0099FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://github.com/temacteklyannayapuwka?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0099FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
-
----
 
 ### About me
 
-- 🗄️ I work with **Microsoft SQL Server**, enterprise databases and IT infrastructure.
-- ⚙️ My background includes technical support, network equipment and 1C.
-- 🌱 I'm developing my backend skills with **Go, Python and Java**.
-- 🔧 I'm interested in monitoring, automation and reliable services.
-- 🎨 I also work on graphic design — see my [Behance portfolio](https://www.behance.net/apagebakanov).
-- 🎓 Bachelor's degree in **Infocommunication Technologies and Communication Systems**.
-- 🏸 Candidate for Master of Sport in badminton.
+I administer Microsoft SQL Server databases and enterprise IT infrastructure. My background includes networking, technical support and 1C.
+
+My focus is reliable systems, monitoring and automation. I'm developing my backend skills with Go, Python and Java.
+
+---
 
 ### Languages and tools
 
@@ -26,13 +22,8 @@
   <img src="https://skillicons.dev/icons?i=git,go,python,java,linux,bash,github&theme=dark&perline=7" alt="Git, Go, Python, Java, Linux, Bash, GitHub" />
 </p>
 
-**Databases and infrastructure**
+### Databases and infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge" alt="SQL Server Management Studio" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/1C-FFDD00?style=for-the-badge&logoColor=black" alt="1C" />
+<p align="left">
+  <img src="assets/infrastructure-tiles.svg" alt="Microsoft SQL Server, Zabbix, Proxmox, 1C, SSMS, MikroTik" width="348" height="48" />
 </p>
