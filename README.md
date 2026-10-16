@@ -1,30 +1,27 @@
 <h1 align="center">Artem Bakanov</h1>
-<p align="center"><strong>Database Administrator · Backend Development</strong></p>
+<p align="center"><strong>Database Administrator · Backend Development · Infrastructure</strong></p>
 
 <p align="center">
-  <a href="mailto:rtmbakanov@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.behance.net/apagebakanov">Design portfolio</a>
+  <a href="mailto:rtmbakanov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://www.behance.net/apagebakanov"><img src="https://img.shields.io/badge/BEHANCE-0284C7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+  &nbsp;
+  <a href="https://github.com/temacteklyannayapuwka?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </p>
 
 ### About
 
-Database administrator working with Microsoft SQL Server and enterprise IT infrastructure. My background spans database administration, networking and technical support. I focus on service reliability, monitoring and automation, while developing backend applications with Go, Python and Java.
+Database administrator working with Microsoft SQL Server and enterprise IT infrastructure. Background in networking and technical support, with a focus on reliability, monitoring and automation. Expanding my backend development skills with Go, Python and Java.
 
-### Tech stack
+### Languages & tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,java,postgres,linux,bash,git,github,figma,ai&theme=dark&perline=5" alt="Go, Python, Java, PostgreSQL, Linux, Bash, Git, GitHub, Figma, Adobe Illustrator" />
+</p>
 
 | Area | Technologies |
 | --- | --- |
 | Databases | SQL · Microsoft SQL Server · PostgreSQL |
-| Backend development | Go · Python · Java |
-| Infrastructure | Proxmox · MikroTik · Zabbix |
+| Backend | Go · Python · Java |
+| Systems & automation | Linux · Bash · Proxmox · MikroTik · Zabbix |
 | Tools & design | Git · GitHub · Figma · Adobe Illustrator |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,postgres,git,github,figma,ai&theme=dark" alt="Go, Python, Java, PostgreSQL, Git, GitHub, Figma, Adobe Illustrator" />
-</p>
-
-### GitHub activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temacteklyannayapuwka&theme=github_dark" alt="GitHub contribution activity" width="100%" />
-</p>
