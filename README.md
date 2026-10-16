@@ -1,7 +1,3 @@
-<h1 align="center">Hi there, I'm Artem</h1>
-
-<h3 align="center">Database Administrator · Backend Development · Infrastructure</h3>
-
 <p align="center">
   <a href="https://t.me/devilishtemadesign"><img src="https://img.shields.io/badge/TELEGRAM-0099FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:rtmbakanov@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0099FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
