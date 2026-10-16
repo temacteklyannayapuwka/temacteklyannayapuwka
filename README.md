@@ -1,4 +1,4 @@
-![Artem Bakanov — Backend, Databases, Infrastructure](banner.png)
+![Hello.](./assets/hello.png)
 
 <!--
 **temacteklyannayapuwka/temacteklyannayapuwka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
