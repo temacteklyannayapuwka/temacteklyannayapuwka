@@ -1,4 +1,4 @@
-![Hello.](./assets/hello.png)
+![Hello.](.banner.png)
 
 <!--
 **temacteklyannayapuwka/temacteklyannayapuwka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
