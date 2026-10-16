@@ -17,7 +17,7 @@ I'm now expanding my backend skills with Go, Python and Java.
 ### Languages and tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,html,java,js,python,linux,bash,go,css,docker,github&theme=dark&perline=11" alt="Git, HTML, Java, JavaScript, Python, Linux, Bash, Go, CSS, Docker, GitHub" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,html,css,js,git,github,linux,bash,docker&theme=dark&perline=11" alt="Go, Python, Java, HTML, CSS, JavaScript, Git, GitHub, Linux, Bash, Docker" />
 </p>
 
 ### Databases and infrastructure
