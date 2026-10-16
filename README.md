@@ -10,9 +10,8 @@
 
 ### About me
 
-I administer Microsoft SQL Server databases and enterprise IT infrastructure. My background includes networking, technical support and 1C.
-
-My focus is reliable systems, monitoring and automation. I'm developing my backend skills with Go, Python and Java.
+Database administrator with a background in networking and technical support.  
+Learning backend development with Go, Python and Java.
 
 ---
 
@@ -24,6 +23,11 @@ My focus is reliable systems, monitoring and automation. I'm developing my backe
 
 ### Databases and infrastructure
 
-<p align="left">
-  <img src="assets/infrastructure-tiles.svg" alt="Microsoft SQL Server, Zabbix, Proxmox, 1C, SSMS, MikroTik" width="348" height="48" />
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge" alt="SQL Server Management Studio" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
+  <img src="https://img.shields.io/badge/1C-FFDD00?style=for-the-badge&logoColor=black" alt="1C" />
 </p>
