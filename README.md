@@ -22,10 +22,8 @@
 
 ### Languages and tools
 
-**Backend · learning and projects**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,java&theme=dark" alt="Go, Python, Java" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,java,git,github,figma,ai&theme=dark&perline=7" alt="Go, Python, Java, Git, GitHub, Figma, Adobe Illustrator" />
 </p>
 
 **Databases and infrastructure**
@@ -37,22 +35,4 @@
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/1C-FFDD00?style=for-the-badge&logoColor=black" alt="1C" />
-</p>
-
-**Development and design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,ai&theme=dark" alt="Git, GitHub, Figma, Adobe Illustrator" />
-</p>
-
-### GitHub activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=temacteklyannayapuwka&theme=github_dark" alt="GitHub contribution summary" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=temacteklyannayapuwka&theme=github_dark" alt="Languages across repositories" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=temacteklyannayapuwka&theme=github_dark" alt="Languages by commit count" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=temacteklyannayapuwka&theme=github_dark" alt="GitHub statistics" width="32%" />
 </p>
