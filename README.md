@@ -23,7 +23,7 @@
 ### Languages and tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,java,git,github,figma,ai&theme=dark&perline=7" alt="Go, Python, Java, Git, GitHub, Figma, Adobe Illustrator" />
+  <img src="https://skillicons.dev/icons?i=git,go,python,java,linux,bash,github&theme=dark&perline=7" alt="Git, Go, Python, Java, Linux, Bash, GitHub" />
 </p>
 
 **Databases and infrastructure**
