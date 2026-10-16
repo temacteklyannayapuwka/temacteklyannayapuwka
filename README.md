@@ -11,8 +11,9 @@
 
 ### About me
 
-Database administrator with a background in networking and technical support.  
-Learning backend development with Go, Python and Java.
+I administer Microsoft SQL Server databases and support enterprise IT systems. My experience includes technical support and network maintenance at an internet provider, working with MikroTik, D-Link and Eltex equipment, as well as 1C development.
+
+I'm now expanding my backend skills with Go, Python and Java.
 
 ---
 
@@ -26,9 +27,9 @@ Learning backend development with Go, Python and Java.
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge" alt="SQL Server Management Studio" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
   <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
   <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/1C-FFDD00?style=for-the-badge&logoColor=black" alt="1C" />
+  <img src="https://img.shields.io/badge/SSMS-0D1117?style=for-the-badge" alt="SQL Server Management Studio" />
 </p>
